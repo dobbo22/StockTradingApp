@@ -1,0 +1,1 @@
+https://financialmodelingprep.com/api/v3/symbol/LSE?apikey=dBBEnqlRFGa2WroR97dB8PR25qQDiNFl
